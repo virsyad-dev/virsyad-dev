@@ -24,14 +24,6 @@ I am currently learning web development and cyber security while building projec
 - Learn Penetration Testing Basics
 - Contribute to Open Source
 
-## 📂 Featured Projects
-
-- Mini ERP System
-- Task Management App
-- Authentication System
-- Linux Notes
-- Networking Fundamentals
-- Cyber Security Labs
 
 ## 🛠️ Tech Stack
 
